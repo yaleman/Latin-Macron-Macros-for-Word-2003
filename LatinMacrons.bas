@@ -1,4 +1,5 @@
-
+' Created by James Hodgkinson in 2012
+' latest version probably available here: https://github.com/yaleman/Latin-Macron-Macros-for-Word-2003
 Sub smallO()
 WriteMacron 333
 End Sub
