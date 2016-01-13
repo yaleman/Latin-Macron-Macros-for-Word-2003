@@ -3,6 +3,8 @@ Latin Macron Macros for Word 2003
 
 These are some simple macros you can use to add buttons to a toolbar in Word (and probably other Office applications) so that you can get one-click access to adding Macron-enabled text to your documents.
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Installation Instructions - or on [My Site with Pictures!](http://www.yaleman.org/2012/03/07/latin-macrons-in-word-2003/?preview=true&preview_id=792&preview_nonce=e0ee99b0cd)
 -----
 
