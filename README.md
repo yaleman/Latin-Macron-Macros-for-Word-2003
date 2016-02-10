@@ -5,7 +5,7 @@ These are some simple macros you can use to add buttons to a toolbar in Word (an
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-Installation Instructions - or on [My Site with Pictures!](http://www.yaleman.org/2012/03/07/latin-macrons-in-word-2003/?preview=true&preview_id=792&preview_nonce=e0ee99b0cd)
+Installation Instructions - or on [My Site with Pictures!](https://yaleman.org/2012/03/07/latin-macrons-in-word-2003/)
 -----
 
 * Download the file - this is all the macro code.
